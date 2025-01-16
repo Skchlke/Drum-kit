@@ -1,3 +1,5 @@
+DRUM-KIT🥁
+
 The Drum Kit🥁 Project is a web-based application that simulates a drum set. 
 Users can interact with virtual drum pads displayed on the screen, and each pad corresponds to a specific drum sound. 
 When a user clicks on a drum pad, the application plays the appropriate sound and provides visual feedback through animations. 
